@@ -9,6 +9,6 @@ public class HelloWord {
 
     @RequestMapping(value = "/hello")
     public String hello(){
-        return "request is success";
+        return "request is success new ";
     }
 }
